@@ -12,7 +12,7 @@
 
 ## 主題
 
-* [Solus Adjustment](#mx-linux-adjustment)
+* [Solus Adjustment](#solus-adjustment)
 * [相關筆記](#相關筆記)
 
 
