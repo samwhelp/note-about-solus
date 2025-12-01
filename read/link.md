@@ -34,6 +34,15 @@ has_children: true
 
 
 
+## Docs
+
+| Docs |
+| ---- |
+| [Basics of package management in Solus](https://help.getsol.us/docs/user/package-management/basics) |
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
