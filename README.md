@@ -12,8 +12,19 @@
 
 ## 主題
 
+* [微調腳本](#微調腳本)
 * [Solus Respin](#solus-respin)
 * [相關筆記](#相關筆記)
+
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| ------- |
+| [Solus Config](https://github.com/samwhelp/solus-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/solus-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
@@ -37,6 +48,8 @@
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Linux Mint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
+| [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
+| [Voidlinux 探索筆記](https://samwhelp.github.io/note-about-voidlinux/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux) |
 | [Budgie Desktop 探索筆記](https://samwhelp.github.io/note-about-budgie/) | [GitHub](https://github.com/samwhelp/note-about-budgie) |
 
 
