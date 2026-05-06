@@ -12,16 +12,16 @@
 
 ## 主題
 
-* [Solus Adjustment](#solus-adjustment)
+* [Solus Respin](#solus-respin)
 * [相關筆記](#相關筆記)
 
 
 
 
-## Solus Adjustment
+## Solus Respin
 
-| Solus Adjustment | GitHub |
-| ---------------- | ------ |
+| Solus Respin | GitHub |
+| ------------ | ------ |
 | [Solus Budgie 探索筆記](https://samwhelp.github.io/note-about-solus-budgie/) | [GitHub](https://github.com/samwhelp/note-about-solus-budgie) |
 | [Solus Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-solus-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-solus-gnome-shell) |
 | [Solus Xfce 探索筆記](https://samwhelp.github.io/note-about-solus-xfce/) | [GitHub](https://github.com/samwhelp/note-about-solus-xfce) |
