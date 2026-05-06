@@ -48,6 +48,7 @@
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Linux Mint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
+| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
 | [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
 | [Voidlinux 探索筆記](https://samwhelp.github.io/note-about-voidlinux/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux) |
 | [Budgie Desktop 探索筆記](https://samwhelp.github.io/note-about-budgie/) | [GitHub](https://github.com/samwhelp/note-about-budgie) |
